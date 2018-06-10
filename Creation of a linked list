@@ -46,7 +46,7 @@ if(__name__=='__main__'):
     llist.insert(70)
     llist.insert(399)
     llist.insert(588)
-    print("The linked list is:")
+    print("The linked list is given as:")
     llist.print_list()
     
     
